@@ -70,7 +70,7 @@ GitPod documentation can be found here [GitPod Docs](https://www.gitpod.io/docs/
 
     - A GitPod extension can be added to the browser for easy access. 
 
-    - A Gitpod button can be added to GitHub and will appear in every repository. 
+    - A GitPod button can be added to GitHub and will appear in every repository. 
          
 
 
