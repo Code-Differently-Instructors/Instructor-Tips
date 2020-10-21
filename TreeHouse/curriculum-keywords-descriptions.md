@@ -6,18 +6,21 @@
 
 - Course = Each track is a collection of various courses to be completed in TreeHouse.
 
-- Module = Each course is made up of several modules.
+- Module = Each course is made up of two or more modules.
 
-    - Modules also include Code Challenges and Quizzes that need to be completed to earn a badge.
+    - Each module is comprised of videos,quizzes, and code challenges. Each must be completed by an employee/student to earn a badge. 
 
-        - Quizzes and Code Challenges must be completed by an employee/student to complete a module. 
+    - Quizzes can be taken multiple times until the employee/ student passes it. 
 
-            - Quizzes can be taken multiple times until the employee/ student passes it. 
-
-        - Each module awards a badge after successful completion.
-
+    
 - Turn & Talk = After a set of modules, Turn & Talks are incorporated to reinforce what was learned from the modules and to have a live demo.
 
-    - Turn & Talks can be completed as a group or with employees pair coding.
+    - During this time students/employees should be encouraged to ask any questions. 
 
     - Always record the Turn & Talks to the cloud.
+
+- Labs = Small projects to be completed by the student/employee. 
+
+    - Lab will be based of a set of modules or a specific topic regarding HTML, CSS, or JavaScript. Students/employees are to complete and submit the labs.
+
+    - Labs deadlines will be dependent upon the sprint goals. 
