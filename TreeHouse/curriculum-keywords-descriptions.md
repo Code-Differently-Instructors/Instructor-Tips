@@ -1,3 +1,5 @@
+<img src="../assets/code-diff-logo.png" style="width:300px; height: auto; margin-bottom: 2em;">
+
 # Curriculum Keywords & Descriptions
 
 ## Keywords and Descriptions
