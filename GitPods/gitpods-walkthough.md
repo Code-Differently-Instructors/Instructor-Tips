@@ -13,7 +13,7 @@ Students will need their own GitHub and GitPod accounts prior to the project set
 
 GitPod documentation can be found here [GitPod Docs](https://www.gitpod.io/docs/).
 
-1. Create a new repository or fork an existing repository.
+1. Create a new repository within GitHub or fork an existing repository.
 
     - Free tier does not open workspaces for private repositories.
 
