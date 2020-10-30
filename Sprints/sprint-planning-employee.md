@@ -2,14 +2,15 @@
 
 # Dev Shop Sprint Planning Meeting
 
-Sprint planning meeting should be held on the first day of each sprint.
+Sprint planning meetings are to be held on the first day of each sprint.
 
-Use [Trello](https://trello.com/) to create a board from our template to begin your sprint planning. 
-
-Sprint Length: 
+You will utilize Trello to track the progress of your sprint goals.
 
 
-1. Establish the goals for the sprint.
+Sprint Length: `2 Weeks`
+
+
+1. Establish the goals for the sprint. 
 
     - What modules to have completed?
 
@@ -20,21 +21,29 @@ Sprint Length:
     - What user stories can be completed in a sprint?
 
 
-2. Create a sprint backlog of the tasks to be completed during the sprint. Add time estimates to each task. 
 
-    - Modules to be completed
+2. Create a sprint backlog of the tasks to be completed during the sprint. Add time estimates to each task. Each Treehouse course has the amount of time it will take to complete. Use those amounts as guidelines.
 
-    - Labs
+Use [Trello](https://trello.com/) to create a board from our template to begin your sprint planning.
 
-    - Projects
+- **Create an account if needed.**
 
-    - User Stories to be completed
 
-    > Each task needs to encompass each part of the definition of "done".
+- Modules to be completed
 
-    > Example: To mark a module "done", all videos, code challenges, and quizzes must be completed to earn a badge. 
+- Labs
 
-3. Each day, move cards from the Backlog to their appropriate category. 
+- Projects
+
+- User Stories to be completed
+
+> Each task needs to encompass each part of the definition of `"done"`.
+
+> Example: To mark a module `"done"`, all videos, code challenges, and quizzes must be completed to earn a badge. 
+
+3. You will need to submit the URL of your Trello board to the supervisor. Click [here](https://forms.gle/eeTTMyhjZKCHwTgeA) to submit your URL.
+
+4. Each day, move cards from the `Backlog` to  `To Do Today`. As you complete modules, check them off. When a course is complete, move the card to the `Done` board. 
 
 
     

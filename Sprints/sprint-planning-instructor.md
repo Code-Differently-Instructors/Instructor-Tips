@@ -6,9 +6,7 @@ This is a guide of how the dev shop employees should approach sprint planning, w
 
 A template of the Trello board is [here](https://trello.com/b/rkGHsOBW/devshop-sprint-planning-template#). Employees can create a copy of the template to create their own boards.
 
-- Decide the length of a Sprint.
-    - This is the task of the instructors
-    - 1 week or 2 weeks
+- A sprint is time-boxed for 2 weeks
     
 
 - Establish the goals for the sprint.
@@ -19,14 +17,20 @@ A template of the Trello board is [here](https://trello.com/b/rkGHsOBW/devshop-s
 
     - What labs/projects are to be completed in a sprint?
 
-    - What user stories align with the established goals? (Advance project management)
+    - What user stories align with the established goals? (Advanced project management)
 
-    - What user stories can be completed in a sprint? (Advance project management)
+    - What user stories can be completed in a sprint? (Advanced project management)
+
+    - Create a product backlog of tasks to be completed by student/employees for a sprint
 
 
-- Create a sprint backlog of the tasks to be completed during the sprint. 
+- Create a sprint backlog of the tasks to be completed during the sprint.
 
-    Trello board template has archived cards of each course and their modules for employees to check off during the sprint. They are located in the "Backlog" board.
+    - Instructors, based of the product backlog will give guidelines for the sprint backlog to students/employees.
+
+    - Student/employees will add the appropriate tasks to their sprint backlogs.
+
+    Trello board template has archived cards of each course and their modules for student/employees to check off during the sprint. They are located in the "Backlog" board.
 
     - Modules to be completed
 
@@ -38,8 +42,8 @@ A template of the Trello board is [here](https://trello.com/b/rkGHsOBW/devshop-s
 
     > **Explain to the employees**: To mark a module "done", all videos, code challenges, and quizzes must be completed to earn a badge. 
 
-Sprint Planning reviews can be held with employees if needed.
+Sprint Planning reviews can be held with students/employees if needed.
 
-It is expected that each employee uses their Trello board everyday for project management.
+It is expected that each student/employee uses their Trello board everyday for project management.
 
-    
+Each student/employee will need to submit the URL of their Trello board for the supervisors. Use the Google Form located [here](https://docs.google.com/forms/d/1r0q6vM4o2C1A1vxa0C-SUGd6J3RG1t6RKHNNjYN-I3Q/edit) to capture their URLs. Use this [link](https://forms.gle/eeTTMyhjZKCHwTgeA) to give to the students/employees.
