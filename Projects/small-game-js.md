@@ -76,7 +76,7 @@ https://medium.com/javascript-in-plain-english/the-worlds-most-empowering-tic-ta
 
 - BlackJack
 
-    <img src="screenshot8.png">
+    <img src="../../assest/screenshot8.png">
 
     JS BlackJack
     http://www.jsmadeeasy.com/javascripts/Games/Blackjack/index.htm

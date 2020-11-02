@@ -24,7 +24,7 @@ Sprint Length: `2 Weeks`
 
 2. Create a sprint backlog of the tasks to be completed during the sprint. Add time estimates to each task. Each Treehouse course has the amount of time it will take to complete. Use those amounts as guidelines.
 
-Use [Trello](https://trello.com/) to create a board from our template to begin your sprint planning.
+Use [Trello](https://trello.com/b/rkGHsOBW/devshop-sprint-planning-template) to create a board from our template to begin your sprint planning.
 
 - **Create an account if needed.**
 

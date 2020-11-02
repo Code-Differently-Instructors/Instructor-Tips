@@ -15,23 +15,37 @@ GitPod documentation can be found here [GitPod Docs](https://www.gitpod.io/docs/
 
 1. Create a new repository within GitHub or fork an existing repository.
 
-    - Free tier does not open workspaces for private repositories.
+<img src="../assets/step-1.PNG" style="margin-left:6em;">
+
+<br>
 
 2. Open a new tab and add this GitPod prefix *gitpod.io/#* in the address bar.
+
+<img src="../assets/step-2.PNG" style="margin-left:3em;">
 
 3. Copy and paste the repository's URL after the prefix. Hit `Enter`.
 
     - First time users should be prompted to authorize GitPods with GitHub.
 
+    <img src="https://cdn-images-1.medium.com/max/5692/1*K8cn3G30eQouKmWQb228LQ.png">
+
     - If not, go to the home page of GitPod. Click the GitHub avatar icon and select `Access Control`.
 
         - Check all of the boxes regarding GitHub permissions and Update.
 
+        <img src="https://user-images.githubusercontent.com/27290320/66707828-caac4e80-ed4f-11e9-8b95-d9c4f621be27.png">
+
 3. After authorization, a workspace will open to the GitPod IDE.
+
+    <img src="https://www.gitpod.io/static/disposable-886b4a0b468b6e119c4565fde44dad0d.jpg">
 
 4. Now the project must be configured. Click `Setup Project`.
 
+    <img src="../assets/step-5.PNG">
+
 5. Click `Create .gitpod.yml` and hit `Enter`.
+
+    <img src="step-6a.PNG">
 
 6. You will be prompted to `Change Base Image`. This is not necessary, click `Skip`.
 
@@ -46,6 +60,8 @@ GitPod documentation can be found here [GitPod Docs](https://www.gitpod.io/docs/
 
 - GitPod has a free tier that can be used by students.
 
+    - Free tier does not open workspaces for private repositories.
+
     - The Free tier has limitations. A user is allotted 50 hours per month. Each month will start with 50 hours. 
 
     - Hours are calculated when a workspace is running (student coding).
@@ -56,11 +72,11 @@ GitPod documentation can be found here [GitPod Docs](https://www.gitpod.io/docs/
 
     - Users have the ability to turn workspaces on and off from the IDE or from the Workspaces page. Workspaces can also be deleted if needed. 
 
-        - There is a limit to the number of workspaces that can be created. 
+        - There is a limit to the number of workspaces that can be created and opened. 
 
         - Sometimes deleting unused workspaces allows a user to gain back hours. This is not always a fix.
 
-            > If 50 hours is accrued before the end of the month, workspaces become inaccessible. It is imperative that users are always **pushing up their work** to avoid code loss.
+            > If 50 hours are accrued before the end of the month, workspaces become inaccessible. It is imperative that users are always **pushing up their work** to avoid code loss. Code can still be retrieved from GitHub.
 
     - GitPod allows users to see the amount of hours remaining by:
 
