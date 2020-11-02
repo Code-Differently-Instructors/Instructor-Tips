@@ -23,11 +23,15 @@ GitPod documentation can be found here [GitPod Docs](https://www.gitpod.io/docs/
 
 <img src="../assets/step-2.PNG" style="margin-left:3em;">
 
+<br>
+
 3. Copy and paste the repository's URL after the prefix. Hit `Enter`.
 
     - First time users should be prompted to authorize GitPods with GitHub.
 
     <img src="https://cdn-images-1.medium.com/max/5692/1*K8cn3G30eQouKmWQb228LQ.png">
+
+    <br>
 
     - If not, go to the home page of GitPod. Click the GitHub avatar icon and select `Access Control`.
 
@@ -35,36 +39,56 @@ GitPod documentation can be found here [GitPod Docs](https://www.gitpod.io/docs/
 
         <img src="https://user-images.githubusercontent.com/27290320/66707828-caac4e80-ed4f-11e9-8b95-d9c4f621be27.png">
 
+        <br>
+
 3. After authorization, a workspace will open to the GitPod IDE.
 
     <img src="https://www.gitpod.io/static/disposable-886b4a0b468b6e119c4565fde44dad0d.jpg">
+
+    <br>
 
 4. Now the project must be configured. Click `Setup Project`.
 
     <img src="../assets/step-5.PNG">
 
+    <br>
+
 5. Click `Create .gitpod.yml` and hit `Enter`.
 
-    <img src="step-6a.PNG">
+    <img src="../assets/step-6a.PNG">
 
-6. You will be prompted to `Change Base Image`. This is not necessary, click `Skip`.
+    <br>
+
+6. They will be prompted to `Change Base Image`. This is not necessary, click `Skip`.
+
+    <img src="../assets/step-7.PNG">
+
+<br>
 
 7. The `README.md` does not need to be updated by GitPod, users can enter in their own information into the `README.md`. Click `Skip`.
 
-8. You will be prompted to `Test Configuration` by allowing GitPod to push to the remote branch. This isn't necessary but can be helpful. A student can do their own testing by creating a file or updating the README.md then stage, commit, and push the changes. 
+    <img src="../assets/step-8.PNG">
+
+<br>
+
+8. They will be prompted to `Test Configuration` by allowing GitPod to push to the remote branch. This isn't necessary but can be helpful. A student/employee can do their own testing by creating a file or updating the README.md then stage, commit, and push the changes.
+
+    <img src="../assets/step-9.PNG">
+
+<br>
 
 <br>
 <br>
 
 ## Good To Know
 
-- GitPod has a free tier that can be used by students.
+- GitPod has a free tier that can be used by students/employees.
 
     - Free tier does not open workspaces for private repositories.
 
     - The Free tier has limitations. A user is allotted 50 hours per month. Each month will start with 50 hours. 
 
-    - Hours are calculated when a workspace is running (student coding).
+    - Hours are calculated when a workspace is running (student/employee coding).
 
     - Workspaces should be turned off when not in use. 
 
