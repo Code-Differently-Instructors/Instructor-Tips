@@ -1,4 +1,4 @@
-<img src="../code-diff-logo.png" style="width:300px; height: auto;">
+<img src="../assets/code-diff-logo.png" style="width:300px; height: auto;">
 
 <br>
 <br>
