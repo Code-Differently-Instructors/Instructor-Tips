@@ -4,7 +4,7 @@
 
 This is a guide of how the dev shop employees should approach sprint planning, whether individually or in a group. 
 
-A template of the Trello board is [here](https://trello.com/b/rkGHsOBW/devshop-sprint-planning-template#). Employees can create a copy of the template to create their own boards.
+A template of the Trello board is [here](https://trello.com/b/rkGHsOBW/devshop-sprint-planning-template). Employees can create a copy of the template to create their own boards.
 
 - A sprint is time-boxed for 2 weeks
     
